@@ -1,0 +1,11 @@
+{
+  "org": "pysal",
+  "repo": "giddy",
+  "versions": [
+    {
+      "commit": "f853d8569ccc5a8a17fc9c11e5c2cb925a89c1a6",
+      "tag": "",
+      "parsed_at": "2026-10-16T03:33:05.280762+00:00"
+    }
+  ]
+}
