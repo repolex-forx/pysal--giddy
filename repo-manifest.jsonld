@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/pysal/giddy/commit/f853d8569ccc5a8a17fc9c11e5c2cb925a89c1a6",
       "git:hexsha": "f853d8569ccc5a8a17fc9c11e5c2cb925a89c1a6",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-16T03:33:05.209678+00:00"
     },
     {
       "@id": "https://repolex.ai/r/pysal/giddy/commit/6ca0bd32a5d0a225b8018195332570cedcb9d125",
